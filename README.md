@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+React Öğrenme Platformu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern ve kullanıcı dostu bir arayüz ile geliştirilmiş React öğrenme platformu.
+Bu proje, React öğrenme sürecini kolaylaştırmak amacıyla hazırlanmıştır ve temel React konularını örneklerle göstermektedir.
 
-Currently, two official plugins are available:
+🚀 Proje Hakkında
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bu proje, React kullanılarak geliştirilmiş bir eğitim/öğrenme sayfasıdır.
+Kullanıcıların React hakkında temel bilgileri öğrenebileceği, bileşen yapısını inceleyebileceği ve modern web geliştirme mantığını anlayabileceği şekilde tasarlanmıştır.
 
-## Expanding the ESLint configuration
+Projede React bileşen mantığı, state yönetimi, props kullanımı ve modern arayüz tasarımı uygulanmıştır.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+🛠️ Kullanılan Teknolojiler
+⚛️ React
+🎨 CSS 
+💻 Visual Studio Code
+🌐 HTML5
+📂 Proje Özellikleri
+Responsive tasarım
+Modern kullanıcı arayüzü
+React component yapısı
+Dinamik içerik kullanımı
+Öğretici ve sade tasarım
+Kolay geliştirilebilir yapı
